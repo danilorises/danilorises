@@ -1,18 +1,26 @@
-## 🚀 About me
+### 🤠 About me
 
-Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** and I am a **Test Analyst / QA professional**. 
+Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** and I am a **Test Analyst / QA professional**.
 
-## 📚 Education
+I work mainly with **Test Automation** (`Selenium`/`Cucumber` w/ `Python`) and **Performance Tests** (`JMeter`). I have also great experience with other test activities such as **Requirements Analysis**, **Test Case Creation & Execution**, **Defect Management**. 
 
-- Technologist Degree in Internet Systems - CEUNSP
+I like learning new stuff and I'm currently learning about **Mobile Testing** (`Appium`) and **API Testing** (`JMeter`).
 
-## 🏢 Experience
+Other than that I am a pretty chill and easy-going guy. I love my family, love videogames and love some good blacksmithing / woodworking.
+
+### 📚 Education
+
+- Technologist Degree in Internet Systems (CEUNSP)
+- ISTQB Certified Tester, Foundation Level (CTFL)
+- AWS Certified Cloud Practitioner
+
+### 🏢 Experience
 
 - IBM (2012 - Today)
 - Fluido Digital (2011 - 2012)
 - TIVIT (2010 - 2011)
 
-## 🌎 Languages
+### 🌎 Languages
 
 - Brazilian Portuguese
 - English

@@ -1,5 +1,54 @@
-### Hi there 👋
+# Hi there 👋
+# Titulo 1
+## Título 2
+### Título 3
+Texto normal
+**Texto em negrito**
+_Texto itálico_
+~~Texto riscado~~
 
+---
+
+> Texto de citação
+
+`print("Texto de código")`
+
+```
+print("Texto de código longo")
+a = 1 + 2
+print(a)
+```
+
+Tabela | Comentário
+---|---
+Olha | Que legal
+
+[Texto link](pudim.com.br)
+
+Lista simples:
+
+- Teste 1
+- Teste 2
+- Teste 3
+
+Lista numerada:
+
+1. Teste
+2. Teste
+3. Teste
+
+Lista de tarefas:
+
+- [x] Teste 1
+- [ ] Teste 2
+- [ ] Teste 3
+
+Referencia a outra issue #2467 
+
+Referencia a outro user @gustavoguanabara 
+
+Imagem:
+![sonic-icon-17](https://github.com/gustavoguanabara/git-github/assets/26820109/734036bc-e974-4001-80dd-b8935dd3d352)
 <!--
 **danilocaires/danilocaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

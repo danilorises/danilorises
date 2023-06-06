@@ -1,4 +1,23 @@
-# Hi there 👋
+## 🚀 About me
+
+Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** and I am a **Test Analyst / QA professional**. 
+
+## 📚 Education
+
+- Technologist Degree in Internet Systems - CEUNSP
+
+## 🏢 Experience
+
+- IBM (2012 - Today)
+- Fluido Digital (2011 - 2012)
+- TIVIT (2010 - 2011)
+
+## 🌎 Languages
+
+- Brazilian Portuguese
+- English
+
+<!--
 # Titulo 1
 ## Título 2
 ### Título 3
@@ -49,7 +68,7 @@ Referencia a outro user @gustavoguanabara
 
 Imagem:
 ![sonic-icon-17](https://github.com/gustavoguanabara/git-github/assets/26820109/734036bc-e974-4001-80dd-b8935dd3d352)
-<!--
+
 **danilocaires/danilocaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

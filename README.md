@@ -1,14 +1,22 @@
 ### 🤠 About me
 
-Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** and I am a **Test Analyst / QA professional**.
+Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** and I am a **Test Analyst / QA professional**. I am a pretty chill and easy-going guy. I love my family, love videogames and love some good blacksmithing / woodworking.
 
-I work mainly with **Test Automation** (`Selenium`/`Cucumber` w/ `Python`) and **Performance Tests** (`JMeter`). I have also great experience with other test activities such as **Requirements Analysis**, **Test Case Creation & Execution**, **Defect Management**. 
+### 💻 Knowledge
 
-I like learning new stuff and I'm currently learning about **Mobile Testing** (`Appium`) and **API Testing** (`JMeter`).
+- Test Automation `Selenium` `Cucumber`
+- Performance Testing `JMeter`
+- Testing Methodology (Requirement Analysis, TC Creation/Execution, Defect Management)
+- Programming languages `Python` `Java`
+- Basic Web Development `HTML5` `CSS3`
+- Basic Cloud `AWS`
 
-Other than that I am a pretty chill and easy-going guy. I love my family, love videogames and love some good blacksmithing / woodworking.
+### 📚 Learning
 
-### 📚 Education
+- Mobile Testing `Appium`
+- API Testing `JMeter`
+
+### 🎓 Education
 
 - Technologist Degree in Internet Systems (CEUNSP)
 - ISTQB Certified Tester, Foundation Level (CTFL)
@@ -16,14 +24,14 @@ Other than that I am a pretty chill and easy-going guy. I love my family, love v
 
 ### 🏢 Experience
 
-- IBM (2012 - Today)
-- Fluido Digital (2011 - 2012)
-- TIVIT (2010 - 2011)
+- IBM: Test Analyst (2012 - Today)
+- Fluido Digital: Administrative Staff (2011 - 2012)
+- TIVIT: Telemarketing Operator (2010 - 2011)
 
 ### 🌎 Languages
 
 - Brazilian Portuguese
-- English
+- English (CEFR C1)
 
 <!--
 # Titulo 1

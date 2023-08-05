@@ -4,7 +4,7 @@ Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** a
 
 ### 💻 Knowledge
 
-- Test Automation `Selenium` `Cucumber`
+- Test Automation `Selenium` `Pytest`
 - Performance Testing `JMeter`
 - Testing Methodology (Requirement Analysis, TC Creation/Execution, Defect Management)
 - Programming languages `Python` `Java`
@@ -14,7 +14,7 @@ Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** a
 ### 📚 Learning
 
 - Mobile Testing `Appium`
-- API Testing `JMeter`
+- API Testing `Pytest`
 
 ### 🎓 Education
 

@@ -13,8 +13,7 @@ Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** a
 
 ### 📚 Learning
 
-- Mobile Testing `Appium`
-- API Testing `Pytest`
+- API Testing `Postman`
 
 ### 🎓 Education
 

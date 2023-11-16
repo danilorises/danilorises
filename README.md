@@ -6,19 +6,18 @@ Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** a
 
 - Test Automation `Selenium` `Pytest`
 - Performance Testing `JMeter`
-- Testing Methodology (Requirement Analysis, TC Creation/Execution, Defect Management)
+- API Testing `Postman`
+- Testing Methodology `Requirement Analysis` `Test Case Creation/Execution` `Defect Management`
 - Programming languages `Python` `Java`
-- Basic Web Development `HTML5` `CSS3`
-- Basic Cloud `AWS`
 
 ### 📚 Learning
 
-- API Testing `Postman`
+- Basic Web Development `HTML5` `CSS3`
 
 ### 🎓 Education
 
 - Technologist Degree in Internet Systems (CEUNSP)
-- ISTQB Certified Tester, Foundation Level (CTFL)
+- ISTQB Certified Tester, Foundation Level ([CTFL](http://scr.istqb.org/?name=&number=14-CTFL-03125-BR&orderBy=firstName&orderDirection=ASC&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10))
 - AWS Certified Cloud Practitioner
 
 ### 🏢 Experience
@@ -30,7 +29,7 @@ Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** a
 ### 🌎 Languages
 
 - Brazilian Portuguese (Native)
-- English (CEFR C1)
+- English ([CEFR C2](https://www.efset.org/cert/g8cZFx))
 
 <!--
 # Titulo 1

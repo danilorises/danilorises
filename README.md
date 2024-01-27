@@ -9,10 +9,11 @@ Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** a
 - API Testing `Postman`
 - Testing Methodology `Requirement Analysis` `Test Case Creation/Execution` `Defect Management`
 - Programming languages `Python` `Java`
+- Basic Web Development `HTML5` `CSS3`
 
 ### 📚 Learning
 
-- Basic Web Development `HTML5` `CSS3`
+- Test Automation `Cypress`
 
 ### 🎓 Education
 

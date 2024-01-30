@@ -1,6 +1,6 @@
 ### 🤠 About me
 
-Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** and I am a **Test Analyst / SDET**. I am a pretty chill and easy-going guy. I love my family, love videogames and love some good blacksmithing / woodworking.
+Hello there! My name is **Danilo Caires Martinez Vieira**, I'm from **Brazil** and I am a **Test Analyst / Automation Engineer**. I am a pretty chill and easy-going guy. I love my family, love videogames and love some good blacksmithing / woodworking.
 
 ### 💻 Knowledge
 
